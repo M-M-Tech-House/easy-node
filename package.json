@@ -1,5 +1,5 @@
 {
-	"name": "easy-node",
+	"name": "@m-m-tech-house/easy-node",
 	"version": "0.0.1",
 	"description": "Easy Node is a Node.js framework for building APIs and backend applications.",
 	"workspaces": [
